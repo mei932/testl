@@ -39,7 +39,7 @@
             @enderror
         </div>
 
-        <button type="submit" class="btn btn-primary w-100 mb-4">Login</button>
+        <button type="submit" class="btn btn-primary w-100 mb-5">Login</button>
        <button type="button" class="btn btn-primary w-100" onclick="window.location='{{ route('register') }}'">Register</button>
 
     </form>
